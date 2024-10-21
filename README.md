@@ -17,7 +17,7 @@ The Product JOptionPane Project is a simple Java application that utilizes the `
 ### Running the Application
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/product-joptionpane-project.git
+   git clone https://github.com/HChristopherNaoyuki/product-joptionpane-project-demo.git
    ```
 
 2. **Navigate to the Project Directory**:
